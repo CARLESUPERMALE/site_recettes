@@ -47,7 +47,8 @@ img.gateau {
 div.infos {
     position: relative;
 }
-table.infos {position: absolute; 
+table.infos {
+    position: absolute; 
     background-color: #6c829dd3; 
     height: 50px; 
     width: 100%; 
@@ -86,12 +87,15 @@ div.colonne2{
     float: right;
 
 }
-div.ingredients p{
+pre.ingredients{
+    margin-top: 0px;
+}
+pre.ingredients p{
     text-align: center;
     border: 1px solid lightgray;
     font-size: 14px;
     padding: 8px 0px;
-    margin: 4px;
+    margin: -10px 4px -10px 4px;
 }
 table.preparation p.numero{
     text-align: center;
