@@ -1,2 +1,2 @@
 # cake_website
-Style for a culinary recipe website
+Style for a cooking recipe web page
