@@ -1,2 +1,2 @@
-# site_gateau
-Style for a culinary recipe site
+# cake_website
+Style for a culinary recipe website
